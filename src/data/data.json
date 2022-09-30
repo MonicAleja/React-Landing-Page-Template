@@ -1,184 +1,117 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Mónica Alejandra Rodríguez",
+    "paragraph": "Soy de la ciudad capital de Colombia Bogotá D.C"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Soy docente de Preescolar de profesión, tengo un emprendimiento en plastilina que se llama Mónica en el País de la Plastilina actualmente soy estudiante de Análisis y desarrollo del SENA, actualmente estoy culminando un diplomado en ReactJs, adicional a ello realizo estudios complementarios de desarrollo de software en Platzi.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Location",
+      "Age",
+      "Nationality",
+      "Interests",
+      "Study"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Bogotá D.C, CO",
+      "36",
+      "COLOMBIANA",
+      "Series, lectura, cine",
+      "CESCO"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
+      "title": "To Do List",
+      "largeImage": "https://github.com/MonicAleja/to-do-clase",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
+      "title": "Aplicación del Clima",
+      "largeImage": "https://github.com/MonicAleja/clima-monica",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
+      "title": "Aplicación de Super Heroes",
+      "largeImage": "https://github.com/MonicAleja/api-heroes-monica",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
+      "title": "Landing Page",
+      "largeImage": "https://github.com/MonicAleja/React-Landing-Page-Template",
       "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "febrero 2021",
+      "text": "SENA: Análisis y Desarrollo de la Información. Estudiante 6 trimestre de ADSI."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Octubre 2020",
+      "text": "FUNDACION MOVISTAR PRO-FUTURO: Líderes innovadores. Líder Innovador en area de la Educación."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-language",
+      "name": "Abril 2020",
+      "text": "POLITÉCNICO DE COLOMBIA: Pedagogía y Lúdica. Desarrollo socioemocional."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "April 2006",
+      "text": "CESCO: Tecnico en Educación Preescolar. Tecnica en educación preescolar."
     }
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "",
+      "text": "\" Soy emprendedora de Mónica en el País de la Plastilina, este proyecto nació debido a los altos problemas de depresión que se generó en los niños por causa de la pandemia, con este proyecto queremos enfocar los valores y despertar la creatividad artística, además de fortalecer y guiar los comportamientos que se generan por la depresión. Con este proyecto hemos cambiado la vida de cientos de familias que se encontraban distanciadas por la falta de comunicación evidenciamos en los niños los avances en el aprendizaje, que anteriormente se les dificultaba en las diferentes áreas de estudio. Adicional a ello queremos empreder con este proyecto Robotica y desarrollo de software para niños.\"",
+      "name": "CEO: Mónica en el País de la Plastilina"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "",
+      "text": "\"Apoyar las actividades del proceso enseñanza-aprendizaje, áreas recreativas y asistencial a niños en edad preescolar, coordinando y programando dichas actividades conjuntamente con su superior inmediato, a fin de lograr el desarrollo de sus habilidades y destrezas.\"",
+      "name": "Jardín Infantil Garabatos: Auxiliar de Preescolar"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "",
+      "text": "\"Coordinar y monitorear el desplazamiento dentro de la ruta de los niños y niñas desde el jardín hasta sus casas, cuidando de su bienestar y buen comportamiento. Apoyar las actividades del proceso enseñanza-aprendizaje, áreas recreativas y asistencial a niños en edad preescolar, coordinando y programando dichas actividades conjuntamente con su superior inmediato, a fin de lograr el desarrollo de sus habilidades y destrezas.\"",
+      "name": "Maternal y Preescolar ASPAEN-ATAVANZA: Auxiliar de Ruta y Apoyo Escolar"
     }
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "",
+      "name": "",
+      "job": ""
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Bogotá D.C, Colombia",
+    "phone": "+57 3014439678",
+    "email": "monica.aleja.rod@gmail.com",
+    "facebook": "https://github.com/MonicAleja",
+    "twitter": "https://twitter.com/moniarodriguez",
+    "youtube": "youtube.com",
+    "instagram": "https://www.instagram.com/monicaenelpaisdelaplastilina"
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Spoken languages",
+      "text": "English: Nivel Básico, Spanish: Nivel Superior, Lengua de Señas Colombiana: Nivel Intermedio"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Frontend development",
+      "text": "React: Nivel Básico, Typescript: Nivel Básico"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Backend development",
+      "text": "JavaScript: Nivel Básico"
     }
   ]
 }
